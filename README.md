@@ -37,6 +37,15 @@ for un-ordered list
 [google](www.google.com)
 
 
+#code blocks
+```python
+s = "python"
+```
+
+```
+javascript
+```
+
 # Tables
 | table | head1 | head2|
 |----|----|----|
